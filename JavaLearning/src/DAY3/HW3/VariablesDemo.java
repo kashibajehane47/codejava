@@ -1,4 +1,4 @@
-package DAY3;
+package DAY3.HW3;
 
 class Shape {
     int length;
