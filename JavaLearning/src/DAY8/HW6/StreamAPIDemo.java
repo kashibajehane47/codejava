@@ -1,4 +1,4 @@
-package D4TASK.HW6;
+package DAY8.HW6;
 
 import java.util.Arrays;
 import java.util.List;

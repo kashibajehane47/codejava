@@ -1,4 +1,4 @@
-package D4TASK.HW3;
+package DAY8.HW3;
 
 interface Operation{
     int execute(int a,int b);

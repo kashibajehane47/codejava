@@ -1,4 +1,5 @@
-package D4TASK.HW5;
+package DAY8.HW5;
+
 import java.util.function.Function;
 
 public class FunctionDemo {
