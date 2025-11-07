@@ -1,4 +1,4 @@
-package DAY8.HW3;
+package DAY7.HW1;
 
 interface Operation{
     int execute(int a,int b);

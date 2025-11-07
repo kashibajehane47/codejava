@@ -1,4 +1,4 @@
-package DAY8.HW5;
+package DAY7.HW3;
 
 import java.util.function.Function;
 

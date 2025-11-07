@@ -1,4 +1,4 @@
-package DAY8.HW6;
+package DAY7.HW4;
 
 import java.util.Arrays;
 import java.util.List;
